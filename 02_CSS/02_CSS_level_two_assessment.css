@@ -1,0 +1,32 @@
+
+h1{
+    font-family: "Permanent Marker";
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+td{
+    height: 400px;
+    width: 200px;
+    border: 6px solid white;
+}
+
+#one{
+    background-color: #0b3954;
+}
+#two{
+    background-color: #087e8b;
+}
+#three{
+    background-color: #bfd7ea;
+}
+#four{
+    background-color: #ff5a5f;
+}
+#five{
+    background-color: #c81d25;
+}

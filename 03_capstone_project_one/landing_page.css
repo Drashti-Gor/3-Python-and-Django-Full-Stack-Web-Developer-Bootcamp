@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    background-color: black;
+    margin: 40px;
+    padding: 30px;
+}
+h2{
+    margin-bottom: 5%;
+}
+
+.content{
+    display: block;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#submit{
+    border-radius: 25px;
+    background-color: yellow;
+    color: black;
+    height: 60px;
+    width: 100px;
+}
+ 

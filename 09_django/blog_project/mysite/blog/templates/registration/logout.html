@@ -1,0 +1,10 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+
+<form action="{% url 'logout' %}" method="POST">
+    {% csrf_token %}
+    <h1>You have logged out successfully!</h1>
+</form>
+
+{% endblock %}
